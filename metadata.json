@@ -1,0 +1,7 @@
+{
+  "name": "Dayflow HRMS",
+  "description": "A comprehensive Human Resource Management System for seamless employee onboarding, attendance tracking, leave management, and payroll visibility.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
